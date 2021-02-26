@@ -3147,11 +3147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scena\\source\\repos\\BlazorTestApp\\BlazorTestApp\\BlazorTestApp.csproj",
+      "projectUniqueName": "C:\\Users\\scena\\Source\\Repos\\BlazorTestApp\\BlazorTestApp\\BlazorTestApp.csproj",
       "projectName": "BlazorTestApp",
-      "projectPath": "C:\\Users\\scena\\source\\repos\\BlazorTestApp\\BlazorTestApp\\BlazorTestApp.csproj",
+      "projectPath": "C:\\Users\\scena\\Source\\Repos\\BlazorTestApp\\BlazorTestApp\\BlazorTestApp.csproj",
       "packagesPath": "C:\\Users\\scena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scena\\source\\repos\\BlazorTestApp\\BlazorTestApp\\obj\\",
+      "outputPath": "C:\\Users\\scena\\Source\\Repos\\BlazorTestApp\\BlazorTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
@@ -3168,6 +3168,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\scena\\source\\repos\\TelerikFeed": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.telerik.com/nuget": {}
       },
